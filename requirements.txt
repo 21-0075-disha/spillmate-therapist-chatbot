@@ -1,0 +1,7 @@
+streamlit
+pydub
+openai
+whisperlib
+google-gemini-api
+python-dotenv
+ibm-watson
